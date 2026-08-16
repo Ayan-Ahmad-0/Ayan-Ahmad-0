@@ -1,5 +1,5 @@
-# 💫 About Me:
-🛠️ I design and build end-to-end data pipelines using Apache Airflow, Kafka, PostgreSQL, and Docker — covering real-time streaming, batch ETL, and cloud-native architectures on AWS (Lambda, Glue, Step Functions).<br>📊 Skilled at transforming raw data into structured, reliable pipelines and clear dashboards for analysis and decision-making.<br>🌱 Actively growing my expertise in scalable data infrastructure and modern orchestration tools.<br>📫 Open to Junior/Associate Data Engineer opportunities.
+#  About Me:
+I design and build end-to-end data pipelines using Apache Airflow, Kafka, PostgreSQL, and Docker — covering real-time streaming, batch ETL, and cloud-native architectures on AWS (Lambda, Glue, Step Functions).<br>📊 Skilled at transforming raw data into structured, reliable pipelines and clear dashboards for analysis and decision-making.<br>🌱 Actively growing my expertise in scalable data infrastructure and modern orchestration tools.<br>📫 Open to Junior/Associate Data Engineer opportunities.
 
 
 ## 🌐 Socials:
