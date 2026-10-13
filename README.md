@@ -1,6 +1,6 @@
 #  About Me:
 I design and build end-to-end data pipelines using Apache Airflow, Kafka, PostgreSQL, and Docker covering real-time streaming, batch ETL, and cloud-native architectures on AWS (Lambda, Glue, Step Functions).
-I also build RAG and LLM-powered systems on Postgres and pgvector, where I focus on validation, access control, and evaluation you can measure. I’m open to Junior/Associate Data Engineer roles
+I also build RAG and LLM-powered pipelines on Postgres and pgvector, where I focus on validation, access control, and evaluation you can measure. I’m open to Junior/Associate Data Engineer roles
 
 
 ## Socials:
